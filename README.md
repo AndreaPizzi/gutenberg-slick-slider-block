@@ -1,10 +1,11 @@
 # gutenberg-slick-slider-block
 A simple slider for Wordpress Gutenberg Block Integration
 
+# requirements
 Wordpress version : Up to 5.0
 ACF version: 5.8.0
 
-Steps for install :
+# Steps for install :
 
 - Copy the contents of functions.php and paste in your function.php
 - Copy the folders strucuture of "custom" folders, and paste in your theme root ( if you just have a custom folder, merge them )
